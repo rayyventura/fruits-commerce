@@ -1,4 +1,6 @@
-# vuecommerce
+# Healthy commerce
+
+An app where you can buy fruits and vegetables online and improve your diet!
 
 ## Project setup
 ```
@@ -20,5 +22,4 @@ npm run build
 npm run lint
 ```
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+
